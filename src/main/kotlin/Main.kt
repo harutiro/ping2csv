@@ -1,5 +1,4 @@
 import model.BuildList
-import java.nio.file.Paths
 
 suspend fun main(args: Array<String>) {
     val getPing = GetPing()
